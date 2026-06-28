@@ -49,5 +49,3 @@ Chrome extensions that turn dense content into something you actually engage wit
 ## 💼 Currently
 
 **Associate Data Scientist (AI Engineer)** at **Société Générale** — shipping agentic RAG and report-automation systems to production with risk and control teams. Previously winner of two SocGen hackathons and a whitepaper competition.
-
-*I build constantly — agents, browser extensions, and LLM tools on nights and weekends, because I can't stop building.*
