@@ -4,7 +4,6 @@
 
 I understand deeply, build rapidly, and ship reliably. Most of my work lives at the intersection of **agents, RAG, and model internals** — I like going all the way down to the math and all the way up to the UI.
 
-🔭 Open to **AI Engineer · Forward Deployed Engineer · Founding Engineer** roles (SF · Remote · Bangalore)
 🌐 [Portfolio](https://pragsyy1729.github.io/pragathi_kalidasan_vetrivel_murugan) · [LinkedIn](https://www.linkedin.com/in/pragathi-k-v-9b4761197/) · 📫 pragathisai0912@gmail.com
 
 ---
