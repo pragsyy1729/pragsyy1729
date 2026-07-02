@@ -11,7 +11,7 @@ I understand deeply, build rapidly, and ship reliably. Most of my work lives at 
 ## 🤖 Featured Projects
 
 ### [City of Agents](https://github.com/pragsyy1729/city-of-agents) · [Live Demo](https://pragsyy1729.github.io/city-of-agents/)
-15 LLM-driven citizens living, working, and socializing in a simulated T‑Nagar, Chennai — a study in how autonomous agents interact under real-world constraints. Each agent has goals, memory, and 25+ tools; BFS road pathfinding on an HTML5 Canvas world.
+15 LLM-driven citizens living, working, and socializing in a simulated T‑Nagar, Chennai — a study in how autonomous agents interact under real-world constraints. Each agent has goals, memory, and 25+ tools; BFS road pathfinding on an HTML5 Canvas world. *Reached 2,800+ people on LinkedIn (51 reactions); Google later demoed a conceptually similar idea.*
 `Nemotron-Super-49B` · `React` · `Zustand` · `Canvas` · `Vite`
 
 ### [Cognitive Loop Agent](https://github.com/pragsyy1729/cognitive-loop-agent)
