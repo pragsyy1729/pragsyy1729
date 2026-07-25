@@ -3,7 +3,7 @@
 **AI Engineer** building agentic LLM systems — from pre-training a transformer from scratch to shipping production RAG agents used by risk and control teams at a global bank.
 
 
-🌐 [Portfolio](https://pragsyy1729.github.io/pragathi_kalidasan_vetrivel_murugan) · [LinkedIn](https://www.linkedin.com/in/pragathi-k-v-9b4761197/) · 📫 pragathisai0912@gmail.com
+🌐 [Portfolio](https://pragsyy1729.github.io/pragathi_kalidasan_vetrivel_murugan) · [LinkedIn](https://www.linkedin.com/in/pragathi-k-v-9b4761197/) · 📫 pragathivetrivelmurugan@gmail.com
 
 ---
 
